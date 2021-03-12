@@ -38,6 +38,12 @@ Read or watch:
 
 ### [5. Implement a class with private attributes](./sample2.dart)
 
+### [6. Implement a class woth one line constructor](./rectangle.dart)
+
+### [7. Implement an abstract class](./shapes.dart)
+
+### [8. Functional programming example](./funtional.dart)
+
 ---
 
 ## Author
