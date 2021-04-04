@@ -3,7 +3,7 @@
 
 
 ## Description:bulb:
-Create simple Apps using Flutter and leanr how to code using Dart
+Create simple Apps using Flutter and learn how to code using Dart
 
 ## Technologies & Tools:wrench:
 
@@ -20,7 +20,7 @@ Create simple Apps using Flutter and leanr how to code using Dart
 
 ## Project Notes:books:
 * Learn Dart
-* Lear the Flutter framework
+* Learn the Flutter framework
 * Use Widges
 * Assign themes
 * Create layouts
